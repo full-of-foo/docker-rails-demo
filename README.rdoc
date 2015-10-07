@@ -1,9 +1,9 @@
-Demo Docker Rails App
-===
+==Demo Docker Rails App
+
 Just fiddling with Docker (simple Rails PG app)
 
-Getting Started (OS X)
----
+===Getting Started (OS X)
+
  - Install VirtualBox https://www.virtualbox.org/wiki/Downloads
  - Install Docker deps `brew install boot2docker docker docker-compose`
  - Initialise and start your tinyVM `boot2docker init && boot2docker up`
